@@ -22,13 +22,14 @@
 ⌚︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      1 hr 32 mins        ████████████████████████░   98.62% 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.38%
 
 🔥 Editors: 
-No Activity Tracked This Week
+CLion                    1 hr 33 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+plexlib                  1 hr 33 mins        █████████████████████████   100.0%
 
 ```
 
