@@ -16,8 +16,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C841%20hrs%2034%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.6%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
@@ -69,5 +67,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/06/2024 01:01:27 UTC
+ Last Updated on 16/06/2024 01:06:05 UTC
 <!--END_SECTION:waka-->
