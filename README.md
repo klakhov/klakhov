@@ -16,7 +16,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C324%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C326%20hrs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.1%20million%20lines%20of%20code-blue)
 
@@ -47,13 +47,18 @@ Sunday                   513 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               49 mins             ████████████████░░░░░░░░░   64.82 % 
+Python                   17 mins             ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
+Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  59 mins             ████████████████████░░░░░   78.95 % 
+Cursor                   15 mins             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 15 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -69,5 +74,5 @@ Open Policy Agent        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/09/2025 01:20:25 UTC
+ Last Updated on 03/09/2025 01:16:44 UTC
 <!--END_SECTION:waka-->
