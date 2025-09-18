@@ -16,7 +16,9 @@
 
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.2%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C338%20hrs%2049%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.1%20million%20lines%20of%20code-blue)
 
 **I Mostly Code in JavaScript** 
 
@@ -31,5 +33,5 @@ Open Policy Agent        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2025 01:16:20 UTC
+ Last Updated on 18/09/2025 01:16:02 UTC
 <!--END_SECTION:waka-->
