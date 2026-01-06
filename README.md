@@ -16,9 +16,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C428%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C428%20hrs%2036%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.71%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.71%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -69,5 +69,5 @@ Open Policy Agent        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/01/2026 01:47:19 UTC
+ Last Updated on 06/01/2026 01:30:13 UTC
 <!--END_SECTION:waka-->
