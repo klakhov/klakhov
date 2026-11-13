@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="382" viewBox="0 0 760 382" role="img" aria-labelledby="title desc">
+  <title id="title">CVAT — data annotation for computer vision</title>
+  <desc id="desc">Software developer at CVAT.ai. Open-source tools for annotating images and video. Explore the CVAT project.</desc>
+<style>
+:root{--surface:#fcfdfe;--ink:#252621;--border:#c3c4b7;--chip:#252621;--line:#c3c4b7;--pointer:#252621;--accent:#ff7300;--secondary:#ff9d00}
+
+</style>
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="var(--accent)" stroke-opacity=".1"/></pattern>
+    <clipPath id="clip"><rect x="12" y="12" width="736" height="358" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect x="12" y="12" width="736" height="358" rx="22" fill="var(--surface)" stroke="var(--border)" stroke-width="1"/>
+    <rect x="442" y="12" width="306" height="358" fill="url(#grid)"/>
+    <g transform="translate(476 72)">
+      <path d="M4 147 54 84 96 111 146 29 211 63 244 147Z" fill="var(--accent)" opacity=".16"/>
+      <rect x="20" y="53" width="133" height="132" rx="4" fill="var(--accent)" fill-opacity=".07" stroke="var(--accent)" stroke-width="2"/>
+      <rect x="20" y="29" width="70" height="25" rx="4" fill="var(--accent)"/>
+      <text x="31" y="46" fill="#1a1a1a" font-family="Arial,sans-serif" font-size="14" font-weight="700">OBJECT</text>
+      <g fill="var(--accent)"><rect x="15" y="48" width="10" height="10"/><rect x="148" y="48" width="10" height="10"/><rect x="15" y="180" width="10" height="10"/><rect x="148" y="180" width="10" height="10"/></g>
+      <path d="M111 168 152 106 205 126 221 194 158 214Z" fill="var(--secondary)" fill-opacity=".08" stroke="var(--secondary)" stroke-width="2"/>
+      <g fill="var(--secondary)"><circle cx="111" cy="168" r="4"/><circle cx="152" cy="106" r="4"/><circle cx="205" cy="126" r="4"/><circle cx="221" cy="194" r="4"/><circle cx="158" cy="214" r="4"/></g>
+      <path d="m177 225 9 28 6-10 12-3Z" fill="var(--pointer)"/>
+    </g>
+    <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif">
+      <text x="46" y="96" fill="var(--accent)" font-size="57" font-weight="700" letter-spacing="-1.5">CVAT</text>
+      <text x="48" y="151" fill="var(--ink)" font-size="26">Data annotation</text>
+      <text x="48" y="188" fill="var(--ink)" font-size="26">for computer vision.</text>
+      <rect x="48" y="225" width="132" height="34" rx="17" fill="var(--chip)" fill-opacity=".12"/>
+      <text x="114" y="248" text-anchor="middle" fill="var(--ink)" font-size="17">Open source</text>
+      <path d="M48 308H712" stroke="var(--line)"/>
+      <text x="48" y="341" fill="var(--ink)" font-size="18" font-weight="500">Software developer</text>
+      <text x="712" y="341" text-anchor="end" fill="var(--accent)" font-size="18">Explore CVAT ↗</text>
+    </g>
+  </g>
+</svg>
