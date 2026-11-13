@@ -2,11 +2,11 @@
 
 Software developer, working across frontend and backend.
 
-<a href="assets/token-tab/receipt-light.svg#gh-light-mode-only">
-  <img align="left" src="assets/token-tab/receipt-light.svg" width="420" alt="My AI coding token statistics for the last 30 days, including fresh input, cached input, output, and usage by coding tool.">
+<a href="assets/token-tab/receipt-light.svg?v=aligned-top-2#gh-light-mode-only">
+  <img align="left" src="assets/token-tab/receipt-light.svg?v=aligned-top-2" width="420" alt="My AI coding token statistics for the last 30 days, including fresh input, cached input, output, and usage by coding tool.">
 </a>
-<a href="assets/token-tab/receipt-dark.svg#gh-dark-mode-only">
-  <img align="left" src="assets/token-tab/receipt-dark.svg" width="420" alt="My AI coding token statistics for the last 30 days, including fresh input, cached input, output, and usage by coding tool.">
+<a href="assets/token-tab/receipt-dark.svg?v=aligned-top-2#gh-dark-mode-only">
+  <img align="left" src="assets/token-tab/receipt-dark.svg?v=aligned-top-2" width="420" alt="My AI coding token statistics for the last 30 days, including fresh input, cached input, output, and usage by coding tool.">
 </a>
 
 <p>
