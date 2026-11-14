@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-14T10:16:55.541974+00:00",
+  "generated_at": "2026-11-14T14:00:36.981256+00:00",
   "period": {
     "days": 30,
     "start": "2026-10-16",
@@ -10,22 +10,22 @@
   },
   "coverage": "Selected local coding-tool logs; not account-wide usage or a bill.",
   "totals": {
-    "input_tokens": 219819497,
-    "output_tokens": 1015344,
-    "total_tokens": 220834841,
-    "cached_input_tokens": 214949376,
-    "fresh_input_tokens": 4870121
+    "input_tokens": 221548186,
+    "output_tokens": 1019944,
+    "total_tokens": 222568130,
+    "cached_input_tokens": 216605056,
+    "fresh_input_tokens": 4943130
   },
   "tools": [
     {
       "tool": "codex",
       "label": "Codex",
-      "input_tokens": 169810585,
-      "output_tokens": 361102,
-      "cached_input_tokens": 167453824,
-      "total_tokens": 170171687,
-      "usage_updates": 878,
-      "last_activity": "2026-11-14T10:16:53.031000+00:00"
+      "input_tokens": 171539274,
+      "output_tokens": 365702,
+      "cached_input_tokens": 169109504,
+      "total_tokens": 171904976,
+      "usage_updates": 897,
+      "last_activity": "2026-11-14T13:48:58.276000+00:00"
     },
     {
       "tool": "qwen",
@@ -157,7 +157,7 @@
     },
     {
       "date": "2026-11-14",
-      "total_tokens": 6720804
+      "total_tokens": 8454093
     }
   ]
 }
