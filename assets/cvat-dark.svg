@@ -26,11 +26,11 @@
       <text x="46" y="96" fill="var(--accent)" font-size="57" font-weight="700" letter-spacing="-1.5">CVAT</text>
       <text x="48" y="151" fill="var(--ink)" font-size="26">Data annotation</text>
       <text x="48" y="188" fill="var(--ink)" font-size="26">for computer vision.</text>
-      <rect x="48" y="225" width="132" height="34" rx="17" fill="var(--chip)" fill-opacity=".12"/>
-      <text x="114" y="248" text-anchor="middle" fill="var(--ink)" font-size="17">Open source</text>
+      <rect x="48" y="225" width="168" height="34" rx="17" fill="var(--chip)" fill-opacity=".12"/>
+      <text x="132" y="248" text-anchor="middle" fill="var(--ink)" font-size="17">Label the world</text>
       <path d="M48 308H712" stroke="var(--line)"/>
-      <text x="48" y="341" fill="var(--ink)" font-size="18" font-weight="500">Software developer</text>
-      <text x="712" y="341" text-anchor="end" fill="var(--accent)" font-size="18">Explore CVAT ↗</text>
+      <text x="48" y="341" fill="var(--ink)" font-size="18" font-weight="500">Data annotation platform</text>
+      <text x="712" y="341" text-anchor="end" fill="var(--accent)" font-size="18">cvat.ai ↗</text>
     </g>
   </g>
 </svg>
