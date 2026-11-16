@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="560" height="743" viewBox="0 12 560 743" role="img" aria-labelledby="title desc">
 <title id="title">Token Tab — another day, another prompt</title>
-<desc id="desc">222,568,130 tokens across selected local coding-tool logs. Tokens are real. Productivity implications are speculative.</desc>
+<desc id="desc">224,534,691 tokens across selected local coding-tool logs. Tokens are real. Productivity implications are speculative.</desc>
 <defs><filter id="shadow" x="-20%" y="-10%" width="140%" height="130%"><feDropShadow dx="0" dy="5" stdDeviation="8" flood-color="#000" flood-opacity=".12"/></filter></defs>
 <style>
 :root{--paper:#fcfdfe;--ink:#252621;--muted:#74766b;--rule:#c3c4b7;--active:#ff7300;--empty:#deded1;--edge:#c3c4b7;--total:#ff7300}
@@ -16,19 +16,19 @@ text{font-family:'Courier New',Courier,monospace;fill:var(--ink)}.muted{fill:var
 <text x="72" y="200" class="row" text-anchor="start" >ITEM</text>
 <text x="488" y="200" class="row" text-anchor="end" >TOKENS</text>
 <text x="72" y="237" class="row" text-anchor="start" >Fresh input</text>
-<text x="488" y="237" class="row" text-anchor="end" >4,943,130</text>
+<text x="488" y="237" class="row" text-anchor="end" >5,138,645</text>
 <text x="72" y="271" class="row" text-anchor="start" >Cached input</text>
-<text x="488" y="271" class="row" text-anchor="end" >216,605,056</text>
+<text x="488" y="271" class="row" text-anchor="end" >218,323,840</text>
 <text x="72" y="305" class="row" text-anchor="start" >Output</text>
-<text x="488" y="305" class="row" text-anchor="end" >1,019,944</text>
+<text x="488" y="305" class="row" text-anchor="end" >1,072,206</text>
 <line x1="72" y1="328" x2="488" y2="328" class="rule"/>
 <text x="72" y="365" class="row" text-anchor="start" font-weight="700">TOTAL</text>
-<text x="488" y="365" class="row total" text-anchor="end" style="font-size:30px;font-weight:700">222.57M</text>
+<text x="488" y="365" class="row total" text-anchor="end" style="font-size:30px;font-weight:700">224.53M</text>
 <text x="72" y="401" class="small muted" text-anchor="start" >BY CODING TOOL</text>
 <text x="72" y="430" class="row" text-anchor="start" >Codex</text>
 <text x="488" y="430" class="row" text-anchor="end" >171.90M</text>
 <text x="72" y="464" class="row" text-anchor="start" >Qwen Code</text>
-<text x="488" y="464" class="row" text-anchor="end" >50.66M</text>
+<text x="488" y="464" class="row" text-anchor="end" >52.63M</text>
 <line x1="72" y1="485" x2="488" y2="485" class="rule"/>
 <text x="72" y="515" class="small muted" text-anchor="start" >DAILY TOKEN TRAFFIC</text>
 <rect x="72.00" y="567.00" width="10.87" height="2.00" rx="1" class="empty"><title>2026-10-18: 0 tokens</title></rect>
@@ -60,7 +60,7 @@ text{font-family:'Courier New',Courier,monospace;fill:var(--ink)}.muted{fill:var
 <rect x="432.53" y="555.77" width="10.87" height="13.23" rx="1" class="active"><title>2026-11-13: 26,204,608 tokens</title></rect>
 <rect x="446.40" y="564.73" width="10.87" height="4.27" rx="1" class="active"><title>2026-11-14: 8,454,093 tokens</title></rect>
 <rect x="460.27" y="567.00" width="10.87" height="2.00" rx="1" class="empty"><title>2026-11-15: 0 tokens</title></rect>
-<rect x="474.13" y="567.00" width="10.87" height="2.00" rx="1" class="empty"><title>2026-11-16: 0 tokens</title></rect>
+<rect x="474.13" y="567.00" width="10.87" height="2.00" rx="1" class="active"><title>2026-11-16: 1,966,561 tokens</title></rect>
 <text x="72" y="588" class="small muted" text-anchor="start" >10-18</text>
 <text x="488" y="588" class="small muted" text-anchor="end" >11-16</text>
 <line x1="72" y1="606" x2="488" y2="606" class="rule"/>
