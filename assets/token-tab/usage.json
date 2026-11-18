@@ -1,48 +1,44 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-17T14:00:21.306032+00:00",
+  "generated_at": "2026-11-18T14:00:07.750342+00:00",
   "period": {
     "days": 30,
-    "start": "2026-10-19",
-    "end": "2026-11-17",
+    "start": "2026-10-20",
+    "end": "2026-11-18",
     "timezone": "Europe/Moscow",
     "includes_today": true
   },
   "coverage": "Selected local coding-tool logs; not account-wide usage or a bill.",
   "totals": {
-    "input_tokens": 223682470,
-    "output_tokens": 1073148,
-    "total_tokens": 224755618,
-    "cached_input_tokens": 218500480,
-    "fresh_input_tokens": 5181990
+    "input_tokens": 234279158,
+    "output_tokens": 1155090,
+    "total_tokens": 235434248,
+    "cached_input_tokens": 228661760,
+    "fresh_input_tokens": 5617398
   },
   "tools": [
     {
       "tool": "codex",
       "label": "Codex",
-      "input_tokens": 171759259,
-      "output_tokens": 366644,
-      "cached_input_tokens": 169286144,
-      "total_tokens": 172125903,
-      "usage_updates": 901,
-      "last_activity": "2026-11-17T13:45:22.620000+00:00"
+      "input_tokens": 178671236,
+      "output_tokens": 385475,
+      "cached_input_tokens": 176065408,
+      "total_tokens": 179056711,
+      "usage_updates": 974,
+      "last_activity": "2026-11-18T13:59:42.870000+00:00"
     },
     {
       "tool": "qwen",
       "label": "Qwen Code",
-      "input_tokens": 51923211,
-      "output_tokens": 706504,
-      "cached_input_tokens": 49214336,
-      "total_tokens": 52629715,
-      "usage_updates": 597,
-      "last_activity": "2026-11-16T13:20:41.420000+00:00"
+      "input_tokens": 55607922,
+      "output_tokens": 769615,
+      "cached_input_tokens": 52596352,
+      "total_tokens": 56377537,
+      "usage_updates": 673,
+      "last_activity": "2026-11-18T12:55:20.283000+00:00"
     }
   ],
   "daily": [
-    {
-      "date": "2026-10-19",
-      "total_tokens": 0
-    },
     {
       "date": "2026-10-20",
       "total_tokens": 0
@@ -158,6 +154,10 @@
     {
       "date": "2026-11-17",
       "total_tokens": 220927
+    },
+    {
+      "date": "2026-11-18",
+      "total_tokens": 10678630
     }
   ]
 }
