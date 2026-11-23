@@ -1,31 +1,31 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-22T14:00:06.719656+00:00",
+  "generated_at": "2026-11-23T14:00:40.062836+00:00",
   "period": {
     "days": 30,
-    "start": "2026-10-24",
-    "end": "2026-11-22",
+    "start": "2026-10-25",
+    "end": "2026-11-23",
     "timezone": "Europe/Moscow",
     "includes_today": true
   },
   "coverage": "Selected local coding-tool logs; not account-wide usage or a bill.",
   "totals": {
-    "input_tokens": 348235499,
-    "output_tokens": 2405205,
-    "total_tokens": 350640704,
-    "cached_input_tokens": 335683840,
-    "fresh_input_tokens": 12551659
+    "input_tokens": 383655904,
+    "output_tokens": 2449435,
+    "total_tokens": 386105339,
+    "cached_input_tokens": 370580608,
+    "fresh_input_tokens": 13075296
   },
   "tools": [
     {
       "tool": "codex",
       "label": "Codex",
-      "input_tokens": 228359775,
-      "output_tokens": 528528,
-      "cached_input_tokens": 224124032,
-      "total_tokens": 228888303,
-      "usage_updates": 1329,
-      "last_activity": "2026-11-22T13:59:58.596000+00:00"
+      "input_tokens": 263780180,
+      "output_tokens": 572758,
+      "cached_input_tokens": 259020800,
+      "total_tokens": 264352938,
+      "usage_updates": 1483,
+      "last_activity": "2026-11-23T13:48:24.400000+00:00"
     },
     {
       "tool": "qwen",
@@ -39,10 +39,6 @@
     }
   ],
   "daily": [
-    {
-      "date": "2026-10-24",
-      "total_tokens": 0
-    },
     {
       "date": "2026-10-25",
       "total_tokens": 0
@@ -157,7 +153,11 @@
     },
     {
       "date": "2026-11-22",
-      "total_tokens": 43368624
+      "total_tokens": 76185739
+    },
+    {
+      "date": "2026-11-23",
+      "total_tokens": 2647520
     }
   ]
 }
